@@ -1,0 +1,13 @@
+
+
+java:S1104"QMake level a static final constant or non-public and provide accessors if needed.(Ì–íïJ$deff86ad-c4ee-4adc-8524-970dce773314
+Œ
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$5d961787-cbc6-46f4-94d1-15be8c37e868
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®éïJ$7896276c-abf8-415b-a409-d899494e0622
+f	java:S106"+Replace this use of System.out by a logger.(¿À©J$99cbbd58-cfc7-4112-ac67-ec3bab566a5a
+k	java:S106"+Replace this use of System.out by a logger.(ÅÖèÓÿÿÿÿÿJ$8a29e16a-54b6-437e-aba6-438bf30bb9b7
+k	java:S106"+Replace this use of System.out by a logger.(’‹ˆûÿÿÿÿJ$b273248b-bf5a-4d3a-87f7-883704d6e02e
+k	java:S106!"+Replace this use of System.out by a logger.(ÎŸ­úÿÿÿÿJ$f139f2be-6b0a-4f99-a635-ea81f6400cd9
+f	java:S106$"+Replace this use of System.out by a logger.(çŸëËJ$2a09cf6f-8a2c-466a-b81f-8295a754a928
+k	java:S106'"+Replace this use of System.out by a logger.(¶°ÌÕøÿÿÿÿJ$72375c3c-c029-455e-a14d-272857562900
+k	java:S106*"+Replace this use of System.out by a logger.(¤°ÆˆûÿÿÿÿJ$02f30e7d-6333-41f0-a065-b404b5c4dd6c

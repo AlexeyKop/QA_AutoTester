@@ -1,0 +1,8 @@
+
+‹	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÿÄSJ$abda7442-e8c5-40cd-9c51-a35830137576
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÑ¤äûÿÿÿÿJ$0eb5f108-31aa-4817-b3b6-6f7cdc5e4717
+ˆ	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ô›J$5bc0e82a-2729-4ffa-af0d-720aa315a9f3
+Ž	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÂîúûÿÿÿÿJ$f944ac74-47c7-4ed1-b142-b6a633a45ee0
+|	java:S1257"<This block of commented-out lines of code should be removed.(ÎÊŠøÿÿÿÿJ$55b402e9-a58c-48df-95e5-123b365c6a70
+g
+java:S1068"+Remove this unused "maxMana" private field.(¹»‘†J$81252f68-c7a1-41dc-a75d-a747bef6f01c

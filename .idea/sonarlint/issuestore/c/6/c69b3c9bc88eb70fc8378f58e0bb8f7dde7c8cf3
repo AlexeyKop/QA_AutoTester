@@ -1,0 +1,8 @@
+
+‹	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÿÄSJ$4ee58ec6-e3f5-46e4-b4bd-e7ffe8ce2073
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÑ¤äûÿÿÿÿJ$6742b6c8-41e5-4955-86c5-d5c979e6c508
+ˆ	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ô›J$33a082ec-9742-4cad-80a6-c4579f0b4200
+Ž	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÂîúûÿÿÿÿJ$d2686163-7dcf-40c3-840c-dc810b7da987
+|	java:S1259"<This block of commented-out lines of code should be removed.(ÎÊŠøÿÿÿÿJ$f5a0e476-c599-486b-8ae5-640e7e763d3d
+n
+java:S1068"-Remove this unused "maxElixir" private field.(Ý‘¥üÿÿÿÿJ$e3213de9-63b6-4e6c-b53b-77b10a2be3a9

@@ -1,0 +1,21 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿°ÅÏıÿÿÿÿJ$2b0cd985-e317-4783-8596-177cff7a8dc1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®éïJ$18b58d39-d637-4e19-8882-4f4ceec8f25b
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸ı¶øÿÿÿÿJ$6044f865-d578-4994-b47a-4be4830fe7a2
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸ı¶øÿÿÿÿJ$71562739-69f7-4c24-8ed4-02f5e1c9be74
+k	java:S106""+Replace this use of System.out by a logger.(ßÕ¤şıÿÿÿÿJ$03fbf846-af83-4f21-bbf8-f21100100078
+w	java:S1257"<This block of commented-out lines of code should be removed.(Ú°à¬J$4f98d42b-e2ab-4bce-a13f-aadb67e8eba2
+|	java:S125<"<This block of commented-out lines of code should be removed.(ş¶ò©úÿÿÿÿJ$0d69360e-79ad-46c2-8bb6-ae38b53d9ca6
+w	java:S125?"<This block of commented-out lines of code should be removed.(¼ö³J$df553ab2-1bbe-4332-95d0-d7d1f0df435d
+w	java:S125E"<This block of commented-out lines of code should be removed.(Ú°à¬J$9e924c13-8f51-4223-9b00-06b8981194cf
+k	java:S106d"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$8f98d48f-d5c0-48bc-821a-07752cb39a39
+f	java:S106}"+Replace this use of System.out by a logger.(ØóÅµJ$eb20eee9-a795-4941-8413-b23e5fc83671
+l	java:S106‚"+Replace this use of System.out by a logger.(¬üöÌûÿÿÿÿJ$f162c00b-5434-4eba-8d46-36f315b5b9ad
+g	java:S106‡"+Replace this use of System.out by a logger.(ÕÂ½ÄJ$18dd2805-a600-42dd-9595-726d26e2488d
+g	java:S106Œ"+Replace this use of System.out by a logger.(ÅşìJ$8109716a-f760-4b97-bdf3-8d602b194780
+l	java:S106‘"+Replace this use of System.out by a logger.(¸ÂÅüÿÿÿÿJ$c8acf23e-cb07-49c0-bdde-0aadfcb62789
+l	java:S106–"+Replace this use of System.out by a logger.(×ÄŞùÿÿÿÿJ$85b3d64a-7b03-4d73-8b1d-31999f8e3d7f
+g	java:S106œ"+Replace this use of System.out by a logger.(—‰µ J$c49fffd9-23d6-4a8c-a755-5d6844bf9efe
+“
+java:S3457¢"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÒ£üÿÿÿÿJ$e77844df-0d2e-4f7e-8f2c-9456346bb45d
